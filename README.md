@@ -9,8 +9,8 @@
 
 ---
 ### Face Routing
-- If we can walk every steps face by face.
-- However, we can only walking on edge, what we should do is walk along the edge.
+- If we can walk every steps face by face, than greedily choose face. 
+- However, we can't walk on face,we can only walk along the edge.
 <img src=https://github.com/wewanadi/GFG_routing/blob/master/.picture/GFG%20(3).png width="600">
 
 - bad case for Face Routing
