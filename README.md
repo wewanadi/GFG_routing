@@ -14,6 +14,7 @@
 <img src=https://github.com/wewanadi/GFG_routing/blob/master/.picture/GFG%20(3).png width="600">
 - bad case for Face Routing
 <img src=https://github.com/wewanadi/GFG_routing/blob/master/.picture/GFG%20(5).png width="600">
+
 ---
 ### GFG Routing
 - Walking on face, sometimes seems taking a long route.
