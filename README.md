@@ -4,7 +4,7 @@
 ---
 ## Main Idea
 ### Greedy Routing
-- Just Greedy will suffer deadend, than never get to destination.
+- Only Greedy will suffer deadend, than never get to destination.
 <img src=https://github.com/wewanadi/GFG_routing/blob/master/.picture/GFG%20(2).png width="600">
 
 ---
